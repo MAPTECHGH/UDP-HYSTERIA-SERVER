@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="victim0256OBFS"
+OBFS="MAPTECH"
 
 # PASSWORDS
-PASSWORD="MAPTECHGH"
+PASSWORD="MAPTECH"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
